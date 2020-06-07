@@ -2,7 +2,7 @@
 """
 Created on Sun May  3 16:09:48 2020
 
-@author: Xavi
+@author: Xapurri
 """
 
 'Gràcia','Eixample','Gràcia','Horta-Guinardó','Les Corts','Nou Barris','Sant Andreu','Sant Martí','Sarria-Sant Gervasi','Sants-Montjuíc','Ciutat Vella'
